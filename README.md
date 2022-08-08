@@ -1,5 +1,7 @@
 # Lightspin 2022 Top Seven Cloud Attack Paths
 
+![Lightspin](https://img.pagecloud.com/wUlma_UEy2PoREUStC9QQIl7W5c=/150x0/filters:no_upscale()/lightspinio/LIG_Logo-Color-Black_L1R1_2x.png)
+
 At Lightspin, our graph-based technology views cloud environments from the perspective of the potential attacker to provide a comprehensive view of imposed risks and assets. By connecting the dots between environments and asking specific context-related questions to understand the criticality of the possible exploitable vulnerabilities, Lightspin empowers organizations with the focus and prioritization they need to remediate the critical attack paths that matter most in their environments.
 
 Based on Lightspin proprietary data, research, and our tracking of cloud security trends in the market, our research team has compiled a list of the 2022 Top 7 Cloud Attack Paths across AWS, Azure, GCP, and Kubernetes as seen on the Lightspin Cloud Native Application Protection Platform (CNAPP). The attack paths were selected based on frequency, criticality, and impact. Our attack paths are based on Lightspin’s cloud attack path taxonomy and tie to the [MITRE ATT&CK Cloud Matrix for Enterprise](https://attack.mitre.org/). This repo includes the applicable MITRE ATT&CK TTPs with formatting in `.xls`, `.json`, and `.svg` vended from the [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) for easy reference and utility in reproduction, table-top exercises, threat modeling, etc.
